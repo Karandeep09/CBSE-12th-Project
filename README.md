@@ -6,3 +6,5 @@
   * Download "Snake Game.CPP"
   * Paste it in TC/bin folder
   * Open it in Turbo C and play 
+  * Navigate using arrow keys
+  * Press Esc key to exit
